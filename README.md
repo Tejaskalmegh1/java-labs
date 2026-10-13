@@ -83,7 +83,7 @@ Explore the concepts progressively, from the foundations of Java to applied soft
 ```text
 java-labs/
 │
-├── 📁 01-basics/
+├── 📁 01-fundamental/
 ├── 📁 02-control-flow/
 ├── 📁 03-methods-arrays/
 ├── 📁 04-strings-utilities/
