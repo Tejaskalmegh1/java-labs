@@ -140,7 +140,7 @@ cd java-labs
 ```
 
 ### 2. Verify Java
-
+   
 ```bash
 java -version
 javac -version
